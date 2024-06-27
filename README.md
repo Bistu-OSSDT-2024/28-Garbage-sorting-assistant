@@ -1,1 +1,1 @@
-# Open-source-large-model-application
+# 28-Garbage-sorting-assistant
